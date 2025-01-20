@@ -1,4 +1,4 @@
-# fastlink_is_invalid
+# fastlink机场
 
 Fastlink各位用户注意：\
 Fastlink机场团队已经确认跑路，客服已经彻底不回邮件，勿再继续订阅。\
